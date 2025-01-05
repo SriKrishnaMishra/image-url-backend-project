@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-image-url-backend-project] { email- srikrishnamishra006@gmail.com }
+Your Name - [sri-krishna-mishra] { email- srikrishnamishra006@gmail.com }
 
 Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
 
